@@ -44,9 +44,9 @@ Custom Interstitials - add your monetization links & keep 100% of the revenues!
 Custom Splash Pages - promote your videos to increase views, engagement & conversions!
 Plus: No ads on our site!
 
-Learn More Here: [Upgrade Details](http://clk.im/upgrade/ \"Upgrade Details\")
+Learn More Here: [Upgrade Details](http://clk.im/upgrade/ "Upgrade Details")
 
 == Website & Support ==
 
-Sign up for a free Clk.im Account here: [Clk.im Registration](http://clk.im/user/register/ \"Clk.im Registration\") 
-Clk.im Support Contact Form: [Contact US For Support](http://clk.im/page/contact/ \"Clk.im Support\") 
+Sign up for a free Clk.im Account here: [Clk.im Registration](http://clk.im/user/register/ "Clk.im Registration") 
+Clk.im Support Contact Form: [Contact US For Support](http://clk.im/page/contact/ "Clk.im Support") 
