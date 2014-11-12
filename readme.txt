@@ -1,28 +1,70 @@
-===  Clk.im Integrator ===
-Contributors: clk.im
-Tags: link shortner, interstitial, ad server, link tracking
-Donate link: http://clk.im
-Requires at least: 3.0.1
-Tested up to: 4.0
-Stable tag: 4.3
-License: GPL
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+=== Clk.im Monetization === 
+Contributors: clk.im 
+Tags: monetization, traffic, link shortner, interstitial, ad server, link tracking 
+Requires at least: 3.0.1 
+Tested up to: 4.0 
+Stable tag: 4.3 
+License: GPLv2 or later 
+License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
-Clk.im Integrator easily integrates the automatic link shortening functionality to your website.
+Easist way to monetize your wordpress website 
 
 == Description ==
-Clk.im offers website owners a simple way to shorten and track clicks on your links.
 
-The Clk.im Integrator Plugin - simplifies the integration process. Using the plugin you will easily be able to set the 
-link classes you would like to shorten and select which page you would like to run the automatic link shortner on.
+Clk.im monetization plugin is the easiest and slickest way of monetizing your wordpress blog. It's based on Clk.im premium interstitial advertisement network (http://clk.im) which deals mainly with links.
 
+The biggest advantage of using clk.im is that it doesn't need embed any banner ad or popunder window on you webpage, so your blog visitors are not going to be bombarded with ads that impair their browsing experience
+
+All you need to do is to sign up forclk.im (http://clk.im/user/register), install our plugin in your wordpress website and configure it by copy&pasting your public API key which will be available to you after registration.
+
+That's all!  Your wordpress blog or website will begin making money for you right away! You can check your earnings by logging into your clk.im dashboard, there you will also be able to view your links statistics (how many people click on each link, from which country etc..)
+
+Key advantages:
+- no advertising space on page needed
+- easy to install
+- easy to configure
+- detailed analytics for each of your links
+- HIGH revenue share
+
+Read more on http://clk.im/pages/wordpress-plugin and learn how you can make even more money with Clk.im !
 
 == Installation ==
-Installing the plugin is easy. Simply follow these steps:
 
-1. Upload `clk-im-integrator.php` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the \'Plugins\' menu in WordPress
-3. Go to the settings page to setup the plugin
+This section describes how to install the plugin and get it working.
+
+In order to use this plugin you will need an active account on http://clk.im
+
+= Using The WordPress Dashboard =
+
+1. Navigate to the 'Add New' in the plugins dashboard
+2. Search for 'clk.im'
+3. Click 'Install Now'
+4. Activate the plugin on the Plugin dashboard
+
+= Uploading in WordPress Dashboard =
+
+1. Navigate to the 'Add New' in the plugins dashboard
+2. Navigate to the 'Upload' area
+3. Select `clkim-integrator.zip` from your computer
+4. Click 'Install Now'
+5. Activate the plugin in the Plugin dashboard
+
+= Using FTP =
+
+1. Download `clkim-integrator.zip`
+2. Extract the `clkim-integrator` directory to your computer
+3. Upload the `clkim-integrator` directory to the `/wp-content/plugins/` directory
+4. Activate the plugin in the Plugin dashboard
+
+== Configuration ==
+
+1. Create Account on http://clk.im
+2. Go to the settings http://clk.im/user/settings
+3. Copy Your API Key and paste it to the Settings/ API Key field
+4. Optional: Limit the shortening service to a specific class of URLs by changing the Selector field (default is 'a' for all links on your website)
+5. Optional: Select what type of pages you would like our automatic shortner to run on (Default is entire site)
+6. Save settings
+
 
 == Frequently Asked Questions ==
 = Do I need to registered on clk.im in order to use this plugin? =
@@ -36,6 +78,7 @@ Yes - in order to obtain a Free API Key you must register for a free account on 
 == Changelog ==
 = 1.0 =
 * First release
+
 
 == Upgrade Notice ==
 = Pro Accounts = 
