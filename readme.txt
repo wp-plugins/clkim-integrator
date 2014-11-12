@@ -26,7 +26,7 @@ Key advantages:
 - detailed analytics for each of your links
 - HIGH revenue share
 
-Read more on http://clk.im/pages/wordpress-plugin and learn how you can make even more money with Clk.im !
+Read more on http://clk.im/page/wordpress-plugin and learn how you can make even more money with Clk.im !
 
 == Installation ==
 
