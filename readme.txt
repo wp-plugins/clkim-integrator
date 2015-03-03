@@ -1,8 +1,8 @@
 === Clk.im Monetization === 
 Contributors: clk.im 
-Tags: monetization, traffic, link shortner, interstitial, ad server, link tracking 
+Tags: monetization, traffic, link shortner, interstitial, ad server, link tracking, make money, adserving, ad injection, adsense, advert, advertising, monetize, plugin, link, links, URL, affiliate, affiliation, affiliate marketing, money, earn, revenues, revenue share, monetise, monetisation, plugin, post, javascript, wordpress
 Requires at least: 3.0.1 
-Tested up to: 4.0 
+Tested up to: 4.1.1 
 Stable tag: 4.3 
 License: GPLv2 or later 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
