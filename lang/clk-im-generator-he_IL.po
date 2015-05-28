@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clk.im Integrator 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-28 10:03+0200\n"
+"PO-Revision-Date: 2015-05-28 10:06+0200\n"
+"Last-Translator: Daniel Pataki <contact@tastique.org>\n"
+"Language-Team: Clkim <info@clkim.com>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../clk-im-integrator.php:43
+msgid "Clk.im Integration Plugin Settings"
+msgstr "הגדרות"
+
+#: ../clk-im-integrator.php:43
+msgid "Clk.im Settings"
+msgstr "הגדרות Clk.im"
+
+#: ../clk-im-integrator.php:92
+msgid "API Key"
+msgstr "מפתח API"
+
+#: ../clk-im-integrator.php:93
+msgid "Get this from"
+msgstr "קבל מאת"
+
+#: ../clk-im-integrator.php:97
+msgid "Selector"
+msgstr "סלקטור"
+
+#: ../clk-im-integrator.php:98
+msgid ""
+"JQuery Selector to use. Default is 'a' which is all links. Leave as defualt "
+"to shorten and track all links."
+msgstr "סלקטור של jQuery, ברירת מחדל היא a"
+
+#: ../clk-im-integrator.php:104
+msgid "Types of page to use plugin on"
+msgstr "סוג הדפים שבהם יופעל התוסף"
+
+#: ../clk-im-integrator.php:109
+msgid "Entire Site"
+msgstr "כל האתר"
+
+#: ../clk-im-integrator.php:113
+msgid "Home Page"
+msgstr "דף הבית"
+
+#: ../clk-im-integrator.php:117
+msgid "Pages"
+msgstr "עמודים"
+
+#: ../clk-im-integrator.php:122
+msgid "Posts"
+msgstr "פוסטים"
+
+#: ../clk-im-integrator.php:126
+msgid "Category Pages"
+msgstr "דפי קטגוריה"
+
+#: ../clk-im-integrator.php:130
+msgid "Blog Page"
+msgstr "דף בלוג"
+
+#: ../clk-im-integrator.php:134
+msgid "Tag Page"
+msgstr "דף תגיות"
+
+#: ../clk-im-integrator.php:143
+msgid "Shorten Links"
+msgstr "קיצור קישורים"
+
+#: ../clk-im-integrator.php:149
+msgid "All Links"
+msgstr "כל הקישוריים"
+
+#: ../clk-im-integrator.php:153
+msgid "External Links"
+msgstr "קישורים חיצוניים"
+
+#: ../clk-im-integrator.php:157
+msgid "Internal Links"
+msgstr "קישורים פנימיים"
+
+#: ../clk-im-integrator.php:161
+msgid "Specific Domain Links (comma seperated)"
+msgstr "קישורים לדומיין ספציפי (מופרד בפסיקים)"

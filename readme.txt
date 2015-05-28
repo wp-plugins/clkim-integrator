@@ -77,6 +77,9 @@ Yes - in order to obtain a Free API Key you must register for a free account on 
 
 == Changelog ==
 
+= 1.2 =
+* Added Localization support.
+
 = 1.1 =
 * Added support for internal links, external links or specific domains to be shortened.
 
