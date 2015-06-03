@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-27 13:09+0100\n"
+"PO-Revision-Date: 2015-05-28 20:57+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: ../clk-im-integrator.php:44
+msgid "Clk.im Integration Plugin Settings"
+msgstr "Настройки плагина интеграции Clk.im"
+
+#: ../clk-im-integrator.php:44
+msgid "Clk.im Settings"
+msgstr "Настройки Clk.im"
+
+#: ../clk-im-integrator.php:93
+msgid "API Key"
+msgstr "Ключ API"
+
+#: ../clk-im-integrator.php:94
+msgid "Get this from"
+msgstr "Получить из"
+
+#: ../clk-im-integrator.php:98
+msgid "Selector"
+msgstr "Селектор"
+
+#: ../clk-im-integrator.php:99
+msgid ""
+"JQuery Selector to use. Default is 'a' which is all links. Leave as defualt "
+"to shorten and track all links."
+msgstr ""
+"Используемый селектор JQuery. По умолчанию выбран селектор 'a', означающий "
+"все ссылки. Оставьте этот вариант без изменений в целях сокращения и "
+"отслеживания всех ссылок."
+
+#: ../clk-im-integrator.php:105
+msgid "Types of page to use plugin on"
+msgstr "Типы страниц, где будет использоваться плагин"
+
+#: ../clk-im-integrator.php:110
+msgid "Entire Site"
+msgstr "Весь сайт"
+
+#: ../clk-im-integrator.php:114
+msgid "Home Page"
+msgstr "Главная страница"
+
+#: ../clk-im-integrator.php:118
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../clk-im-integrator.php:123
+msgid "Posts"
+msgstr "Записи"
+
+#: ../clk-im-integrator.php:127
+msgid "Category Pages"
+msgstr "Страницы категорий"
+
+#: ../clk-im-integrator.php:131
+msgid "Blog Page"
+msgstr "Страница блога"
+
+#: ../clk-im-integrator.php:135
+msgid "Tag Page"
+msgstr "Страница тега"
+
+#: ../clk-im-integrator.php:144
+msgid "Shorten Links"
+msgstr "Сократить ссылки"
+
+#: ../clk-im-integrator.php:150
+msgid "All Links"
+msgstr "Все ссылки"
+
+#: ../clk-im-integrator.php:154
+msgid "External Links"
+msgstr "Внешние ссылки"
+
+#: ../clk-im-integrator.php:154
+msgid "Internal Links"
+msgstr "Внутренние ссылки"
+
+#: ../clk-im-integrator.php:162
+msgid "Specific Domain Links (comma seperated)"
+msgstr "Ссылки на определенный домен (через запятую)"

@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clk.im Integrator 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-27 13:09+0100\n"
+"PO-Revision-Date: 2015-05-28 21:42+0300\n"
+"Last-Translator: Daniel Pataki <contact@tastique.org>\n"
+"Language-Team: Daniel Pataki <hello@danielpataki.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.1\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: ar_SA\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../clk-im-integrator.php:44
+msgid "Clk.im Integration Plugin Settings"
+msgstr "إعدادات إضافة Clk.im المتكاملة"
+
+#: ../clk-im-integrator.php:44
+msgid "Clk.im Settings"
+msgstr "إعدادات Clk.im "
+
+#: ../clk-im-integrator.php:93
+msgid "API Key"
+msgstr "مفتاح API"
+
+#: ../clk-im-integrator.php:94
+msgid "Get this from"
+msgstr "الحصول على هذا من"
+
+#: ../clk-im-integrator.php:98
+msgid "Selector"
+msgstr "المحدّد"
+
+#: ../clk-im-integrator.php:99
+msgid ""
+"JQuery Selector to use. Default is 'a' which is all links. Leave as defualt "
+"to shorten and track all links."
+msgstr ""
+"محدّد JQuery المستخدم  افتراضيا هو 'a' (اختيار جميع الروابط ) اختر الافتراضي "
+"لاختصار وتتبع جميع الروابط"
+
+#: ../clk-im-integrator.php:105
+msgid "Types of page to use plugin on"
+msgstr "أنواع الصفحة لاستخدام الإضافة"
+
+#: ../clk-im-integrator.php:110
+msgid "Entire Site"
+msgstr "الموقع بأكمله"
+
+#: ../clk-im-integrator.php:114
+msgid "Home Page"
+msgstr "الصفحة الرئيسية"
+
+#: ../clk-im-integrator.php:118
+msgid "Pages"
+msgstr "الصفحات"
+
+#: ../clk-im-integrator.php:123
+msgid "Posts"
+msgstr "المنشورات"
+
+#: ../clk-im-integrator.php:127
+msgid "Category Pages"
+msgstr "صفحات التصنيف"
+
+#: ../clk-im-integrator.php:131
+msgid "Blog Page"
+msgstr "صفحة المدونة"
+
+#: ../clk-im-integrator.php:135
+msgid "Tag Page"
+msgstr "صفحة الوسم"
+
+#: ../clk-im-integrator.php:144
+msgid "Shorten Links"
+msgstr "اختصر الرابط"
+
+#: ../clk-im-integrator.php:150
+msgid "All Links"
+msgstr "جميع الروابط"
+
+#: ../clk-im-integrator.php:154
+msgid "External Links"
+msgstr "روابط خارجية"
+
+#: ../clk-im-integrator.php:154
+msgid "Internal Links"
+msgstr "روابط  داخلية"
+
+#: ../clk-im-integrator.php:162
+msgid "Specific Domain Links (comma seperated)"
+msgstr "روابط الدومين \"المجال\" المحددة ( ضع فاصلة بين كل دومين والاخر )"

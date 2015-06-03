@@ -77,8 +77,20 @@ Yes - in order to obtain a Free API Key you must register for a free account on 
 
 == Changelog ==
 
+= 1.3 =
+* Added support for the following languages: 
+  - Arabic
+  - German
+  - Spanish
+  - Hebrew
+  - Hindi
+  - Italian
+  - Portuguese
+  - Russian
+  - Serbian 
+
 = 1.2 =
-* Added Localization support.
+* Added Multi language support.
 
 = 1.1 =
 * Added support for internal links, external links or specific domains to be shortened.

@@ -3,7 +3,7 @@
  * Plugin Name: Clk.im Integrator
  * Plugin URI: clk.im
  * Description: Clk.im Link Shortner And Interstitial Adserver Integration Plugin
- * Version: 1.2
+ * Version: 1.3
  * Author: Clk.im
  * Author URI: clk.im
  * License: GPL2

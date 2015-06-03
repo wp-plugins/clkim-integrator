@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clk.im Integrator 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-27 13:09+0100\n"
+"PO-Revision-Date: 2015-06-01 09:30+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: Daniel Pataki <hello@danielpataki.com>\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../clk-im-integrator.php:44
+msgid "Clk.im Integration Plugin Settings"
+msgstr "Clk.im Integracijska Plugin Podešavanja"
+
+#: ../clk-im-integrator.php:44
+msgid "Clk.im Settings"
+msgstr "Clk.im Podešavanja"
+
+#: ../clk-im-integrator.php:93
+msgid "API Key"
+msgstr "API Ključ"
+
+#: ../clk-im-integrator.php:94
+msgid "Get this from"
+msgstr "Ovo uzmite iz"
+
+#: ../clk-im-integrator.php:98
+msgid "Selector"
+msgstr "Selektor"
+
+#: ../clk-im-integrator.php:99
+msgid ""
+"JQuery Selector to use. Default is 'a' which is all links. Leave as defualt "
+"to shorten and track all links."
+msgstr ""
+"JQuery Selektor za upotrebu. Uobičajeno (default) je 'a' što su sve linkovi. "
+"Ostavite kao default radi skraćivanja i trakirajte sve linkove."
+
+#: ../clk-im-integrator.php:105
+msgid "Types of page to use plugin on"
+msgstr "Tipovi stranica na kojima se koristi plugin"
+
+#: ../clk-im-integrator.php:110
+msgid "Entire Site"
+msgstr "Čitav sajt"
+
+#: ../clk-im-integrator.php:114
+msgid "Home Page"
+msgstr "Naslovna strana (Home Page)"
+
+#: ../clk-im-integrator.php:118
+msgid "Pages"
+msgstr "Stranice"
+
+#: ../clk-im-integrator.php:123
+msgid "Posts"
+msgstr "Post-ovi"
+
+#: ../clk-im-integrator.php:127
+msgid "Category Pages"
+msgstr "Stranice po kategorijama"
+
+#: ../clk-im-integrator.php:131
+msgid "Blog Page"
+msgstr "Blog stranice"
+
+#: ../clk-im-integrator.php:135
+msgid "Tag Page"
+msgstr "Tag stranice"
+
+#: ../clk-im-integrator.php:144
+msgid "Shorten Links"
+msgstr "Skraćeni linkovi"
+
+#: ../clk-im-integrator.php:150
+msgid "All Links"
+msgstr "Svi linkovi"
+
+#: ../clk-im-integrator.php:154
+msgid "External Links"
+msgstr "Eksterni linkovi"
+
+#: ../clk-im-integrator.php:154
+msgid "Internal Links"
+msgstr "Interni linkovi"
+
+#: ../clk-im-integrator.php:162
+msgid "Specific Domain Links (comma seperated)"
+msgstr "Specifični linkovi domena (razdvojeni zarezom )"
