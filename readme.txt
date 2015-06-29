@@ -89,6 +89,9 @@ Yes - in order to obtain a Free API Key you must register for a free account on 
   - Russian
   - Serbian 
 
+= 1.3 =
+* Tiny bugfix
+
 = 1.2 =
 * Added Multi language support.
 

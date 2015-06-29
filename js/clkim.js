@@ -11,6 +11,7 @@ function initJQuery() {
 
             if ( typeof(clkim) == 'undefined' || typeof(clkim.api) == 'undefined' || typeof(clkim.selector) == 'undefined' ) {
                 console.log('Clk.im is not configured correctly');
+				return;
             }
 
             $.getScript('http://www.clk.im/urlshortener.min.js',function(){
