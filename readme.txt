@@ -77,6 +77,9 @@ Yes - in order to obtain a Free API Key you must register for a free account on 
 
 == Changelog ==
 
+= 1.4 =
+Branded Domains support.
+
 = 1.3 =
 * Added support for the following languages: 
   - Arabic

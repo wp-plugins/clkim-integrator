@@ -3,7 +3,7 @@
  * Plugin Name: Clk.im Integrator
  * Plugin URI: clk.im
  * Description: Clk.im Link Shortner And Interstitial Adserver Integration Plugin
- * Version: 1.3
+ * Version: 1.4
  * Author: Clk.im
  * Author URI: clk.im
  * License: GPL2
@@ -60,7 +60,8 @@ function clk_create_menu() {
 function register_clksettings() {
 
 	register_setting( 'clk-settings-group', 'api_key' );
-	register_setting( 'clk-settings-group', 'selector' );
+    register_setting( 'clk-settings-group', 'branded_domain' );
+    register_setting( 'clk-settings-group', 'selector' );
 	register_setting( 'clk-settings-group', 'type' );
     register_setting( 'clk-settings-group', 'clkim_links_type' );
     register_setting( 'clk-settings-group', 'clkim_specific_domains' );
@@ -99,9 +100,15 @@ function toggle(source) {
     <?php settings_fields( 'clk-settings-group' ); ?>
     <?php do_settings_sections( 'clk-settings-group' ); ?>
     <table class="form-table">
+
         <tr valign="top">
             <th scope="row"><?php echo __('API Key',CLK_TEXTDOMAIN);?> </th>
             <td><input type="text" name="api_key" value="<?php echo esc_attr( get_option('api_key') ); ?>" /><?php echo __('Get this from',CLK_TEXTDOMAIN);?>  <a href="http://clk.im/user">http://clk.im/user</a></td>
+        </tr>
+
+        <tr valign="top">
+            <th scope="row"><?php echo __('Branded Domain',CLK_TEXTDOMAIN);?> </th>
+            <td><input type="text" name="branded_domain" value="<?php echo esc_attr( get_option('branded_domain') ); ?>" /><?php echo __('Your own private domain which is hosted on Clk.im',CLK_TEXTDOMAIN);?></td>
         </tr>
 
         <tr valign="top">
@@ -234,6 +241,7 @@ function clk_footer() {
 
         $selector = get_option('selector');
         $api_key = get_option('api_key');
+        $branded_domain = get_option('branded_domain');
         $links_type = get_option('clkim_links_type');
         $specific_domains = get_option('clkim_specific_domains');
 
@@ -244,6 +252,7 @@ function clk_footer() {
         var clkim = {
             selector: '{$selector}',
             api: '{$api_key}',
+            branded_domain: '{$branded_domain}',
             links_type: '{$links_type}',
             links_domains: '{$specific_domains}'
         }

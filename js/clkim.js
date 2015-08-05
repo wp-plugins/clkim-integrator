@@ -15,11 +15,11 @@ function initJQuery() {
             }
 
             $.getScript('http://www.clk.im/urlshortener.min.js',function(){
-
                 // Shorten
                 $(clkim.selector).shorten({
                     url : 'http://clk.im',
                     key : clkim.api,
+                    branded_domain: clkim.branded_domain,
                     links_type: clkim.links_type,
                     links_domains: clkim.links_domains
                 });
